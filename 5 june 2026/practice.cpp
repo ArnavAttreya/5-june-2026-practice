@@ -1,4 +1,4 @@
-// so today i have soled 2 array hard problems 
+// so today i have solved 2 array hard problems 
 // and learned the concept of monotonous 
 // decreasing in deque
 
